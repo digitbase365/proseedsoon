@@ -221,11 +221,16 @@ strong {
 	z-index: -1;
 }
 .logo .row{
-	/* height: 8vh; */ 
-	margin-top: 10px;
+	height: 7vh; 
+	margin-top: 5px;
 }
-.logo img{
-	/* width: 22%; */
+.logo .bx{
+	width: 60px;
+	height: 90%; 
+}
+.logo .bx img{
+	width: 100%;
+	height: 100%;
 }
 
 /********************
