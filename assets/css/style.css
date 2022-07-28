@@ -1283,7 +1283,7 @@ footer {
 
 @media screen and (max-width: 500px){
 	.logo {  
-		background-color: rgba(0, 0, 85, .5); 
+		background-color: rgba(0, 0, 0, .5); 
 	}
 	.logo .row{
 		height: 5.56vh; 
@@ -1304,10 +1304,7 @@ footer {
 	}
 
 
-	/* Hero Section */
-	.hero-con .container-fluid .welcome{
-		border: 1px solid dodgerblue;
-	}
+	/* Hero Section */ 
 	.hero-con .container-fluid .welcome h2{
 		font-size: 1.23rem; 
 	}
